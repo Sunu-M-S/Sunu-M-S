@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <p>My name is Sunu, and here are a few things I'm working on:</p>
 
 <ul>
-  <li>Python AI/li>
+  <li>Python AI</li>
   <li>CTF</li>
   <li>GUI</li>
 </ul>
