@@ -4,7 +4,7 @@ I am  Sunu, a Designer, Developer, Coder, CTF Player and Security Researcher
 
 ### About 🙋🏻‍♂️
 ```python
-Name = "Sunu-M-S aka S-M-S"
+Name = "Sunu-M-S aka 9andora"
 What_I_Do = ['Developer','Coder','Security Researcher','Ethical Hackers','CTF','OSINT']
 Motto = "Make Internet safe for everyone"
 
