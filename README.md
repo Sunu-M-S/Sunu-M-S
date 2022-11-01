@@ -11,7 +11,7 @@ Motto = "Make Internet safe for everyone"
 
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SMS~%23+whoami;%E2%9C%93+Sunu+M+S;%E2%9C%93+Web+Pentester;%E2%9C%93+Ethical+Hacker;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SMS~%23+whoami;%E2%9C%93+Sunu+M+S;root%40SMS~%23+Alias;%E2%9C%93+9andora;%E2%9C%93+Web+Pentester;%E2%9C%93+Ethical+Hacker;%E2%9C%93+Developer+;%E2%9C%93+Open+source+Toolmaker+)](https://git.io/typing-svg)
 ### Skills 👨‍💻
 
 <img align="left" alt="Python" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/python.svg" />
